@@ -1,4 +1,4 @@
-package com.example.fragmentsnavigation
+package com.example.nav
 
 import org.junit.Test
 
